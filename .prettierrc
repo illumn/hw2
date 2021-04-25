@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "singleQuote" : true,
+    "bracketSpacing": true,
+    "tabWidth": 2
+}
