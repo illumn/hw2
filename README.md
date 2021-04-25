@@ -2,5 +2,5 @@
 
 ### `npm start`
 
-link for Checking :
+link for Checking :https://trusting-mirzakhani-48501c.netlify.app/
 
